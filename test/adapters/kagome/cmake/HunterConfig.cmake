@@ -20,8 +20,8 @@
 
 # Should point to the version of kagome to be tested (currently a custom fork with small fixes atop master)
 hunter_config(kagome
-  URL https://github.com/soramitsu/kagome/archive/70e4719a81c69c8dc238187a98d1b077f54f0913.tar.gz
-  SHA1 a480c70af74b773a9c335a01e0deb85273b559ff
+  URL https://github.com/soramitsu/kagome/archive/0be7bf1f1e474055c87f3053850e8b8ab2aa5ca7.tar.gz
+  SHA1 dcc4de001b93f83cd568a63c2a2f7114c0183dca
   CMAKE_ARGS TESTING=OFF
 )
 
